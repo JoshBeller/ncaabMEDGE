@@ -1,0 +1,114 @@
+{
+  "spread_buckets_v1": [
+    {
+      "spread_bucket": "-1 to -4.5",
+      "total": 2251,
+      "total_fav_wins": 1303,
+      "total_fav_wins_plus_opp_over": 467,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3584,
+      "fair_american_price_no_anticorrelation_boost": 179.01
+    },
+    {
+      "spread_bucket": "-5 to -8.5",
+      "total": 1575,
+      "total_fav_wins": 1155,
+      "total_fav_wins_plus_opp_over": 427,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3697,
+      "fair_american_price_no_anticorrelation_boost": 170.489586
+    },
+    {
+      "spread_bucket": "-9 and above",
+      "total": 1934,
+      "total_fav_wins": 1774,
+      "total_fav_wins_plus_opp_over": 805,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.4538,
+      "fair_american_price_no_anticorrelation_boost": 120.361393
+    }
+  ],
+  "spread_buckets_v2": [
+    {
+      "spread_bucket": "-1 to -3.5",
+      "total": 1762,
+      "total_fav_wins": 999,
+      "total_fav_wins_plus_opp_over": 347,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3473,
+      "fair_american_price_no_anticorrelation_boost": 188.0
+    },
+    {
+      "spread_bucket": "-4 to -7.5",
+      "total": 1749,
+      "total_fav_wins": 1210,
+      "total_fav_wins_plus_opp_over": 439,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3628,
+      "fair_american_price_no_anticorrelation_boost": 176.0
+    },
+    {
+      "spread_bucket": "-8 to -11.5",
+      "total": 973,
+      "total_fav_wins": 809,
+      "total_fav_wins_plus_opp_over": 349,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.4314,
+      "fair_american_price_no_anticorrelation_boost": 132.0
+    },
+    {
+      "spread_bucket": "-12 and above",
+      "total": 1276,
+      "total_fav_wins": 1214,
+      "total_fav_wins_plus_opp_over": 564,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.4646,
+      "fair_american_price_no_anticorrelation_boost": 115.0
+    }
+  ],
+  "total_buckets_v1": [
+    {
+      "total_bucket": "144.5 and below",
+      "total": 2913,
+      "total_fav_wins": 2090,
+      "total_fav_wins_plus_opp_over": 808,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3866,
+      "fair_american_price_no_anticorrelation_boost": 159.0
+    },
+    {
+      "total_bucket": "145 to 157.5",
+      "total": 2413,
+      "total_fav_wins": 1793,
+      "total_fav_wins_plus_opp_over": 735,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.4099,
+      "fair_american_price_no_anticorrelation_boost": 144.0
+    },
+    {
+      "total_bucket": "158 and above",
+      "total": 434,
+      "total_fav_wins": 349,
+      "total_fav_wins_plus_opp_over": 156,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.447,
+      "fair_american_price_no_anticorrelation_boost": 124.0
+    }
+  ],
+  "total_buckets_v2": [
+    {
+      "total_bucket": "148.5 and below",
+      "total": 3939,
+      "total_fav_wins": 2841,
+      "total_fav_wins_plus_opp_over": 1123,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3953,
+      "fair_american_price_no_anticorrelation_boost": 153.0
+    },
+    {
+      "total_bucket": "149 to 153.5",
+      "total": 926,
+      "total_fav_wins": 698,
+      "total_fav_wins_plus_opp_over": 271,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.3883,
+      "fair_american_price_no_anticorrelation_boost": 158.0
+    },
+    {
+      "total_bucket": "153.5 and above",
+      "total": 895,
+      "total_fav_wins": 693,
+      "total_fav_wins_plus_opp_over": 305,
+      "p_fav_win_plus_opp_over_given_fav_win": 0.4401,
+      "fair_american_price_no_anticorrelation_boost": 127.0
+    }
+  ]
+}
